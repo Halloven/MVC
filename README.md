@@ -17,6 +17,7 @@ There're 2 file
   - view
     - homepage.js
   - index.js
+  
 HOW TO RUN
 open terminal
 npm install
