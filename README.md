@@ -19,6 +19,6 @@ There're 2 file
   - index.js
   
 HOW TO RUN
--open terminal
--npm install
--npm start
+  -open terminal
+  -npm install
+  -npm start
